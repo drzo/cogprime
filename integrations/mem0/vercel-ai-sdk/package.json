@@ -32,7 +32,7 @@
     "@ai-sdk/openai": "^0.0.71",
     "@ai-sdk/provider": "^0.0.26",
     "@ai-sdk/provider-utils": "^1.0.22",
-    "ai": "^3.4.31",
+    "ai": "^5.0.89",
     "dotenv": "^16.4.5",
     "partial-json": "0.1.7",
     "ts-node": "^10.9.2",
